@@ -132,7 +132,7 @@ var_your_message: Your message
 ##################
 
 # You don't have to change these.
-
+future: true
 exclude: [vendor]
 highlighter: rouge
 kramdown:
