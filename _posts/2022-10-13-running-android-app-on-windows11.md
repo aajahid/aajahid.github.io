@@ -1,6 +1,7 @@
 ---
 title: Runnng Android app on windows 11
-cover-image: hipster.jpg
+cover-image: covers/hipster.jpg
+og-image: wsa-windows11/chaldal-cookups-android-app-wsa-windows11.jpg
 
 summary: Here I explain how to run Android app on windows 11 without access to amazon store or from a country where amazon store is not available.
 

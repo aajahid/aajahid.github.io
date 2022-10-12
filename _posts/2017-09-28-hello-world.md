@@ -1,6 +1,7 @@
 ---
 title: Hello World
-cover-image: hipster.jpg
+cover-image: covers/hipster.jpg
+og-image: shakti-world.com_screenshot.jpg
 
 summary: I had my first website back in 2008, when Nitul vai gave me a free domain/hosting! But I'm so cheap that, after that I never renewed that website! Being a professional web developer ( Sounds so cheasy in 2017! ) building so many website for many clients, I myself didn't have my personal website!
 
