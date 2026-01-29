@@ -1,20 +1,20 @@
 
 # The name of your website.
-name: Holo Alfa
+name: Aajahid
 
 description:
 
   # Description of your site. This will show up in google.
-  meta: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
+  meta: Self taught programmer, award winning freelancer, wanna be entrepreneur and senior software engineer at Chaldal.com
 
   # Description of your site. This will show up on the front page.
-  subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/steinvc/holo-alfa">&lt;/&gt; on Github</a>.
+  subtitle: Self taught programmer, award winning freelancer and senior software engineer at <a href="htts://chaldal.com" target="_blank">Chaldal.com</a>
 
 author:
-  name: Dr. Jekyll # Change this!
+  name: Abdullah Al Jahid # Change this!
 
   # Necessary for contact page
-  email: your@email.com # Change this!
+  email: abdullah.al.jahid@gmail.com # Change this!
 
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.
@@ -39,7 +39,7 @@ lang: en
 show-subtitle: true
 display-social-icons: false
 
-footer-text: This is the footer.<br><a href="http://steinvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://steinvc.github.io/holo-alfa/">Stijn</a>.
+footer-text: Copyright 2017<br><a href="http://aajahid.github.io">aajahid</a>.
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: # /img/logo.png
