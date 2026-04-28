@@ -5,10 +5,10 @@ name: Aajahid
 description:
 
   # Description of your site. This will show up in google.
-  meta: Self taught programmer, award winning freelancer, wanna be entrepreneur and senior software engineer at Chaldal.com
+  meta: Senior Software Engineer and Technical Lead at Chaldal.com, working across React, TypeScript, Node.js, C#, F#, payments, and distributed systems.
 
   # Description of your site. This will show up on the front page.
-  subtitle: Self taught programmer, award winning freelancer and senior software engineer at <a href="htts://chaldal.com" target="_blank">Chaldal.com</a>
+  subtitle: Senior Software Engineer and Technical Lead at <a href="https://chaldal.com" target="_blank">Chaldal.com</a>
 
 author:
   name: Abdullah Al Jahid # Change this!
