@@ -1,0 +1,17 @@
+services:
+  jekyll:
+    build: .
+    ports:
+      - "4000:4000"
+      - "35729:35729"  # Live reload port
+    volumes:
+      # Mount the project directory for live reload
+      - .:/srv/jekyll
+      # Prevent overwriting installed gems
+      - bundle_cache:/usr/local/bundle
+    command: bundle exec jekyll serve --config _config_dev.yml --host 0.0.0.0 --livereload --force_polling
+    environment:
+      - JEKYLL_ENV=development
+
+volumes:
+  bundle_cache:
