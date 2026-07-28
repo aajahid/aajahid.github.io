@@ -5,10 +5,10 @@ name: Aajahid
 description:
 
   # Description of your site. This will show up in google.
-  meta: Senior Software Engineer and Payment team Lead at Chaldal.com, working across React, TypeScript, Node.js, C#, F#, payments, and distributed systems.
+  meta: Staff Software Engineer at Optimizely, working across TypeScript, React, Node.js, C#, F#, AI agent tooling, payments, and distributed systems.
 
   # Description of your site. This will show up on the front page.
-  subtitle: Senior Software Engineer and Payment team Lead at <a href="https://chaldal.com" target="_blank">Chaldal.com</a>
+  subtitle: Staff Software Engineer at <a href="https://www.optimizely.com" target="_blank">Optimizely</a>
 
 author:
   name: Abdullah Al Jahid # Change this!
